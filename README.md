@@ -5,7 +5,9 @@ common noun in this week.
 
 ## Requirements
 This script uses Pymorphy2 morphAnalizer to analized russian text and finding noun. More about pymorphy2 here https://pymorphy2.readthedocs.io/en/latest
+
 datas represent by pandas series http://pandas.pydata.org/pandas-docs/version/0.22/
+
 For headers parsing it uses BeautyfullSoap 4.0 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 ## Installing
