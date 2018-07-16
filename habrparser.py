@@ -2,7 +2,6 @@ from urllib import request
 from bs4 import BeautifulSoup
 from datetime import datetime, date, timedelta
 from collections import Counter
-from matplotlib import pyplot as plt
 import sys
 import pymorphy2
 import string
